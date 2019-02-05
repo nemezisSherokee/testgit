@@ -50,4 +50,4 @@ function git_add_messge {
 }
 alias add="git_add_messge"
 
-echo "end terminé"
+echo "end terminé oui"
