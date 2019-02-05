@@ -50,4 +50,4 @@ function git_add_messge {
 }
 alias add="git_add_messge"
 
-echo "end terminé commit sufit peut etre pas ? feature 1 Master"
+echo "end terminé commit sufit peut etre pas ? Master"
