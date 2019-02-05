@@ -12,7 +12,6 @@ function git_pull_origin_master {
 	   echo "pull from branch $active_branch"
 	fi
 }
-
 alias pull="git_pull_origin_master"
 
 function git_push_origin_master {
@@ -28,7 +27,6 @@ function git_push_origin_master {
 	fi
 	 
 }
-
 alias push="git_push_origin_master"
 
 function git_commit_messge {
@@ -37,7 +35,6 @@ function git_commit_messge {
 	 echo "committed with message $1"
 	}
 }
-
 alias commit="git_commit_messge"
 
 function git_add_messge {
@@ -51,7 +48,7 @@ function git_add_messge {
 	   echo "added all filles successfully"
 	fi
 }
-
 alias add="git_add_messge"
 
 echo "end"
+alias add="git_add_messge"
