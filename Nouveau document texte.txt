@@ -1,9 +1,6 @@
 Push
 Commit
-<<<<<<< Updated upstream
 Add
 Stash
-=======
->>>>>>> Stashed changes
 test
 Add
