@@ -18,3 +18,17 @@ function git_commit_messge {
 }
 
 alias commit="git_commit_messge"
+
+function git_add_messge {
+
+	if [ $# -gt 0 ]
+	then
+	  git add $1
+	  echo "added $1 successfully"
+	else
+	   git add *
+	   echo "added all filles successfully"
+	fi
+}
+
+alias add="git_add_messge"
