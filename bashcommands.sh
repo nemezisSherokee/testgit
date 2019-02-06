@@ -1,3 +1,4 @@
+alias cls="clear"
 active_branch="$(git branch | grep \* | cut -d ' ' -f2)"
 
 function git_pull_origin_master {
