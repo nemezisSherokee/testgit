@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="##### |AF| CAMEROON #####" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_cameroon.png" group-title="AFRICA",##### |AF| CAMEROON #####
 http://line.cdn-ott.net:80/5990523340/2271585289/5395
 #EXTINF:-1 tvg-ID="" tvg-name="|CAMEROON| EQUINOXE CAMEROUN" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_cameroon.png" group-title="AFRICA",|CAMEROON| EQUINOXE CAMEROUN
@@ -24,3 +25,23 @@ http://line.cdn-ott.net:80/5990523340/2271585289/98353
 http://line.cdn-ott.net:80/5990523340/2271585289/98352
 #EXTINF:-1 tvg-ID="" tvg-name="|CAMEROON| DIVINAMOUR TV" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_cameroon.png" group-title="AFRICA",|CAMEROON| DIVINAMOUR TV
 http://line.cdn-ott.net:80/5990523340/2271585289/98351
+#EXTINF:-1 tvg-ID="" tvg-name="##### |AF| BURKINAFASO #####" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_burkina_faso.png" group-title="AFRICA",##### |AF| BURKINAFASO #####
+http://line.cdn-ott.net:80/5990523340/2271585289/5394
+#EXTINF:-1 tvg-ID="" tvg-name="|BURKINAFASO| RTB" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_burkina_faso.png" group-title="AFRICA",|BURKINAFASO| RTB
+http://line.cdn-ott.net:80/5990523340/2271585289/98370
+#EXTINF:-1 tvg-ID="" tvg-name="##### |AF| ANGOLA #####" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_angola.png" group-title="AFRICA",##### |AF| ANGOLA #####
+http://line.cdn-ott.net:80/5990523340/2271585289/5392
+#EXTINF:-1 tvg-ID="" tvg-name="|ANGOLA| TV ZIMBO" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_angola.png" group-title="AFRICA",|ANGOLA| TV ZIMBO
+http://line.cdn-ott.net:80/5990523340/2271585289/98379
+#EXTINF:-1 tvg-ID="" tvg-name="|ANGOLA| TPA INTERNATIONAL" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_angola.png" group-title="AFRICA",|ANGOLA| TPA INTERNATIONAL
+http://line.cdn-ott.net:80/5990523340/2271585289/98378
+#EXTINF:-1 tvg-ID="" tvg-name="|ANGOLA| TPA 1" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_angola.png" group-title="AFRICA",|ANGOLA| TPA 1
+http://line.cdn-ott.net:80/5990523340/2271585289/118409
+#EXTINF:-1 tvg-ID="" tvg-name="##### |AF| TCHAD #####" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_chad.png" group-title="AFRICA",##### |AF| TCHAD #####
+http://line.cdn-ott.net:80/5990523340/2271585289/4046
+#EXTINF:-1 tvg-ID="" tvg-name="|TCHAD| TELE TCHAD" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_chad.png" group-title="AFRICA",|TCHAD| TELE TCHAD
+http://line.cdn-ott.net:80/5990523340/2271585289/98405
+#EXTINF:-1 tvg-ID="" tvg-name="##### |AF| KENYA #####" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_kenya.png" group-title="AFRICA",##### |AF| KENYA #####
+http://line.cdn-ott.net:80/5990523340/2271585289/4043
+#EXTINF:-1 tvg-ID="" tvg-name="|KENYA| KTN" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_kenya.png" group-title="AFRICA",|KENYA| KTN
+http://line.cdn-ott.net:80/5990523340/2271585289/98423
